@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar2\\ViroSample\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
-                {
-                    "source": "D:\\Project-NTU\\Year4\\FYP\\viroar2\\ViroSample\\node_modules\\react-viro\\android\\arcore_client\\build\\.transforms\\07d895f4d1a575119013ae1d9e765c5f\\res\\values-en-rCA\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "194,241,292,393,494",
-                        "endColumns": "46,50,100,100,62",
-                        "endOffsets": "240,291,392,493,556"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "105,156,211,316,421",
-                        "endColumns": "50,54,104,104,66",
-                        "endOffsets": "151,206,311,416,483"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Kevzzsk\\.gradle\\caches\\transforms-2\\files-2.1\\effd4507df71fdb6cae1cc9a8f6c9601\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
@@ -52,6 +35,23 @@
                         "startOffsets": "488,592,692,800,884,984,1099,1176,1252,1343,1436,1532,1626,1727,1820,1915,2009,2100,2191,2273,2376,2480,2579,2684,2787,2891,3047,3147",
                         "endColumns": "103,99,107,83,99,114,76,75,90,92,95,93,100,92,94,93,90,90,81,102,103,98,104,102,103,155,99,81",
                         "endOffsets": "587,687,795,879,979,1094,1171,1247,1338,1431,1527,1621,1722,1815,1910,2004,2095,2186,2268,2371,2475,2574,2679,2782,2886,3042,3142,3224"
+                    }
+                },
+                {
+                    "source": "D:\\Project-NTU\\Year4\\FYP\\viroar\\node_modules\\react-viro\\android\\arcore_client\\build\\.transforms\\167f9cd1e5b6793adf3ed97d433ab40d\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,393,494",
+                        "endColumns": "46,50,100,100,62",
+                        "endOffsets": "240,291,392,493,556"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,156,211,316,421",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "151,206,311,416,483"
                     }
                 }
             ]

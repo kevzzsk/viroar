@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar2\\ViroSample\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kevzzsk\\.gradle\\caches\\transforms-2\\files-2.1\\effd4507df71fdb6cae1cc9a8f6c9601\\res\\values-be\\values-be.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Project-NTU\\Year4\\FYP\\viroar2\\ViroSample\\node_modules\\react-viro\\android\\arcore_client\\build\\.transforms\\07d895f4d1a575119013ae1d9e765c5f\\res\\values-be\\values.xml",
+                    "source": "D:\\Project-NTU\\Year4\\FYP\\viroar\\node_modules\\react-viro\\android\\arcore_client\\build\\.transforms\\167f9cd1e5b6793adf3ed97d433ab40d\\res\\values-be\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",

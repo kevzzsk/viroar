@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar2\\ViroSample\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kevzzsk\\.gradle\\caches\\transforms-2\\files-2.1\\ad0900447338266cd452618ae79649fa\\res\\values-en-rIN\\values-en-rIN.xml",

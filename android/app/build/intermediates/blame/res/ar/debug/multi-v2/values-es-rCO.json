@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar2\\ViroSample\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-es-rCO\\values-es-rCO.xml",
+            "outputFile": "D:\\Project-NTU\\Year4\\FYP\\viroar\\android\\app\\build\\intermediates\\incremental\\mergeArDebugResources\\merged.dir\\values-es-rCO\\values-es-rCO.xml",
             "map": [
                 {
-                    "source": "D:\\Project-NTU\\Year4\\FYP\\viroar2\\ViroSample\\node_modules\\react-viro\\android\\arcore_client\\build\\.transforms\\07d895f4d1a575119013ae1d9e765c5f\\res\\values-es-rCO\\values.xml",
+                    "source": "D:\\Project-NTU\\Year4\\FYP\\viroar\\node_modules\\react-viro\\android\\arcore_client\\build\\.transforms\\167f9cd1e5b6793adf3ed97d433ab40d\\res\\values-es-rCO\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
